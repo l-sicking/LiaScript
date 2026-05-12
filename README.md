@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/7cab2d61-5858-4b62-87bf-0598e44af2e7
 - 🗣️ **Text-to-Speech (TTS)** in multiple languages
 - 💻 **Live Code execution** (JavaScript, Python via Pyodide, MicroPython, etc.)
 - 📊 **ASCII diagrams, charts, and tables**
-- 📲 **PWA support** – works completely offline
+- 📲 **Progressive Web App (PWA) support** – works completely offline
 - 📤 **Export to PDF, SCORM, IMS**
 - 🔌 **Plugin system and macros**
 - 👥 **Peer-to-Peer mode** for offline-first collaboration
